@@ -12,6 +12,7 @@ The system extracts text from the PDF, splits it into chunks, embeds the chunks,
 ## Setup
 
 1. Clone the repository:
+
 git clone https://github.com/Meghana057/rag-pdf-reader-qa.git
 cd rag-pdf-reader-qa
 
@@ -26,3 +27,10 @@ Add your PDF (rename to sample.pdf or update in pdf-qa.py)
 
 4.Run:
 python pdf-qa.py
+
+## Example questions
+Example Questions: 
+
+1. Who won the race?
+2. What is the moral of the story?
+3. Why did the hare fall asleep?
